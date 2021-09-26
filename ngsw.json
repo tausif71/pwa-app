@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1632642605129,
+  "timestamp": 1632647599746,
   "index": "https://tausif71.github.io/angular-pwa/index.html",
   "assetGroups": [
     {
@@ -14,6 +14,7 @@
         "https://tausif71.github.io/angular-pwa/favicon.ico",
         "https://tausif71.github.io/angular-pwa/index.html",
         "https://tausif71.github.io/angular-pwa/main.21bda5f067f5f5c282ab.js",
+        "https://tausif71.github.io/angular-pwa/main.bad2cfea93368d7f7dd4.js",
         "https://tausif71.github.io/angular-pwa/manifest.webmanifest",
         "https://tausif71.github.io/angular-pwa/ngsw-worker.js",
         "https://tausif71.github.io/angular-pwa/polyfills.94daefd414b8355106ab.js",
@@ -70,8 +71,9 @@
     "https://tausif71.github.io/angular-pwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://tausif71.github.io/angular-pwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://tausif71.github.io/angular-pwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://tausif71.github.io/angular-pwa/index.html": "2e379eef8897fc3ba7eda7a0f9492f84a962f95c",
+    "https://tausif71.github.io/angular-pwa/index.html": "8204e41a7a700ba976d3b0c9b6c658673ef93299",
     "https://tausif71.github.io/angular-pwa/main.21bda5f067f5f5c282ab.js": "e884de1cb3141205f2748ff5c9b9498d02279894",
+    "https://tausif71.github.io/angular-pwa/main.bad2cfea93368d7f7dd4.js": "4ad6e1878f6cb969053dd808baf8e5f9b9598bae",
     "https://tausif71.github.io/angular-pwa/manifest.webmanifest": "fdcbdf89e256b52c54db7e31d3c6f9f406276476",
     "https://tausif71.github.io/angular-pwa/ngsw-worker.js": "b44316be1c1338e9e8bd30ee40946085916c58e4",
     "https://tausif71.github.io/angular-pwa/polyfills.94daefd414b8355106ab.js": "cfe7b0b53e96bff9ba384b4d497c08475a617d62",
